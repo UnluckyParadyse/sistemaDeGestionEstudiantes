@@ -4,3 +4,4 @@ Aplicacion que hice en C++ para el proyecto final de programacion en segundo sem
 "trabajofinal.drawio" es el diagrama por el cual me guie cuando empece con el trabajo,lo hice con una extension de Visual Studio Code de nombre "Drawio".
 ---
 "problematica.md" tiene la orden del ejercicio
+---
